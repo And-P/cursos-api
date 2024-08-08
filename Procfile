@@ -1,1 +1,1 @@
-web: java -jar build/libs/cursos-api-0.0.1-SNAPSHOT.jar
+web: java -war build/libs/cursos-api-0.0.1-SNAPSHOT.war
